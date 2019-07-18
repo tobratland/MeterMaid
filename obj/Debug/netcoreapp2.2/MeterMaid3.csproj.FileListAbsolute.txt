@@ -1,0 +1,14 @@
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\bin\Debug\netcoreapp2.2\MeterMaid3.deps.json
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\bin\Debug\netcoreapp2.2\MeterMaid3.runtimeconfig.json
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\bin\Debug\netcoreapp2.2\MeterMaid3.runtimeconfig.dev.json
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\bin\Debug\netcoreapp2.2\MeterMaid3.dll
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\bin\Debug\netcoreapp2.2\MeterMaid3.pdb
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\obj\Debug\netcoreapp2.2\MeterMaid3.csprojAssemblyReference.cache
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\obj\Debug\netcoreapp2.2\MeterMaid3.csproj.CoreCompileInputs.cache
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\obj\Debug\netcoreapp2.2\MeterMaid3.RazorAssemblyInfo.cache
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\obj\Debug\netcoreapp2.2\MeterMaid3.RazorAssemblyInfo.cs
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\obj\Debug\netcoreapp2.2\MeterMaid3.AssemblyInfoInputs.cache
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\obj\Debug\netcoreapp2.2\MeterMaid3.AssemblyInfo.cs
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\obj\Debug\netcoreapp2.2\MeterMaid3.RazorTargetAssemblyInfo.cache
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\obj\Debug\netcoreapp2.2\MeterMaid3.dll
+C:\Users\tobra\source\repos\MeterMaid3\MeterMaid3\obj\Debug\netcoreapp2.2\MeterMaid3.pdb
